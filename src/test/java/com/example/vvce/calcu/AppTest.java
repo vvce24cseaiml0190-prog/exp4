@@ -15,6 +15,10 @@ public class AppTest {
 	void testSubtract() {
 		assertEquals(15,app.add(20,5));
 	}
+	void testmultiply() {
+		assertEquals(10,app.multiply(2,5));
+		
+	}
 	
 	
 
